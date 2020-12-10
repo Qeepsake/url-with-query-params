@@ -1,0 +1,21 @@
+{
+  "name": "url-with-query-params",
+  "version": "0.0.0",
+  "description": "Small utility library to generate an URL with query params.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aspect-apps/url-with-query-params.git"
+  },
+  "keywords": [
+    "react-native",
+    "url",
+    "query"
+  ],
+  "author": "Luke Brandon Farrell",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aspect-apps/url-with-query-params/issues"
+  },
+  "homepage": "https://github.com/aspect-apps/url-with-query-params#readme"
+}
